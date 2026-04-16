@@ -1,4 +1,4 @@
-# movie-review-sentiment-classifier
+# Film Junky Union: Movie Review Sentiment Classifier
 
 An NLP sentiment classifier for movie reviews. Uses spaCy lemmatization and TF-IDF to achieve an F1 score of 0.95 and ROC AUC of 0.99.
 
