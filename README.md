@@ -1,8 +1,10 @@
 # Film Junky Union: Movie Review Sentiment Classifier
 
+## About
+
 An NLP sentiment classifier for movie reviews. Uses spaCy lemmatization and TF-IDF to achieve an F1 score of 0.95 and ROC AUC of 0.99.
 
-### 🚀 Technical Highlights
+## 🚀 Technical Highlights
 
 * **Advanced NLP Pipeline**: Implemented a comprehensive text-cleaning workflow using **spaCy** for lemmatization and tokenization, ensuring semantic consistency before vectorization.
 * **TF-IDF Vectorization**: Transformed unstructured text into high-dimensional numerical features using **TF-IDF (Term Frequency-Inverse Document Frequency)** to capture word importance relative to the entire corpus.
